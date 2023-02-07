@@ -1,5 +1,5 @@
 ---
-title: "our website"
+title: "Our Website"
 author: "Hannah"
 output: html_document
 ---
